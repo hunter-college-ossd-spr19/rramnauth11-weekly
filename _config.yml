@@ -14,6 +14,7 @@ name: Ramela
 # Replace "Course Name" and "Semester" by the actual course name and semester,
 # e.g.: CSci 395.86 Open Source Software Development, Spring 2019
 description: CSci 395.86 Open Source Software Development, Spring 2019
+Ramela is a Senior Computer Science Major graduating in May 2019.
 
 # CUSTOMIZE
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
@@ -29,7 +30,7 @@ footer-links:
   email:
   facebook:
   flickr:
-  github:        # your GitHub username
+  github:        rramnauth11
   instagram:
   linkedin:
   pinterest:
